@@ -1,0 +1,14 @@
+/Users/jafarli-hammed/Desktop/Csharp/hellomars/hellomars/bin/Debug/net7.0/hellomars
+/Users/jafarli-hammed/Desktop/Csharp/hellomars/hellomars/bin/Debug/net7.0/hellomars.deps.json
+/Users/jafarli-hammed/Desktop/Csharp/hellomars/hellomars/bin/Debug/net7.0/hellomars.runtimeconfig.json
+/Users/jafarli-hammed/Desktop/Csharp/hellomars/hellomars/bin/Debug/net7.0/hellomars.dll
+/Users/jafarli-hammed/Desktop/Csharp/hellomars/hellomars/bin/Debug/net7.0/hellomars.pdb
+/Users/jafarli-hammed/Desktop/Csharp/hellomars/hellomars/obj/Debug/net7.0/hellomars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jafarli-hammed/Desktop/Csharp/hellomars/hellomars/obj/Debug/net7.0/hellomars.AssemblyInfoInputs.cache
+/Users/jafarli-hammed/Desktop/Csharp/hellomars/hellomars/obj/Debug/net7.0/hellomars.AssemblyInfo.cs
+/Users/jafarli-hammed/Desktop/Csharp/hellomars/hellomars/obj/Debug/net7.0/hellomars.csproj.CoreCompileInputs.cache
+/Users/jafarli-hammed/Desktop/Csharp/hellomars/hellomars/obj/Debug/net7.0/hellomars.dll
+/Users/jafarli-hammed/Desktop/Csharp/hellomars/hellomars/obj/Debug/net7.0/refint/hellomars.dll
+/Users/jafarli-hammed/Desktop/Csharp/hellomars/hellomars/obj/Debug/net7.0/hellomars.pdb
+/Users/jafarli-hammed/Desktop/Csharp/hellomars/hellomars/obj/Debug/net7.0/hellomars.genruntimeconfig.cache
+/Users/jafarli-hammed/Desktop/Csharp/hellomars/hellomars/obj/Debug/net7.0/ref/hellomars.dll
